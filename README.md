@@ -27,7 +27,7 @@ This is the backend part of the Inventory Management application, built with Nod
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/inventory-backend.git
+    git clone https://github.com/SundaRahul/inventory-backend.git
     cd inventory-backend
     ```
 
